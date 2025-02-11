@@ -1,0 +1,1 @@
+So I was trying to make a compact ensemble discrimator deep convolutional generative assertive network to detect deepfakes as my final year project for my bachelor's degree. It would be helpful if someone would check the code and correct the errors if any. 
